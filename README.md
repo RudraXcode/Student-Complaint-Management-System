@@ -1,8 +1,7 @@
 
   # Student Complaint Management System
 
-  This is a code bundle for Student Complaint Management System. The original project is available at https://www.figma.com/design/e04FMS9Nd2jejNxt2wju46/Student-Complaint-Management-System.
-
+  This is a code bundle for Student Complaint Management System. The original project is available at https://student-complaint-management-system-krmu.vercel.app
   ## 🚀 Quick Deploy
 
   **Ready to deploy?** Choose your platform:
